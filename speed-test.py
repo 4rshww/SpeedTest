@@ -1,4 +1,4 @@
-#pip install requirements
+#pip install requirements.txt
 #https://github.com/4rshww
 
 from errno import WSAEHOSTUNREACH
